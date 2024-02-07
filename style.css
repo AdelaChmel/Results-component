@@ -4,7 +4,7 @@
      font-size: 18px;
 }
 
-body {
+main {
      display: flex;
      justify-content: center;
      align-items: center;
@@ -134,4 +134,10 @@ span {
           grid-template-columns: 1fr;
           width: 100%;
     }
+}
+
+footer {
+     text-align: center;
+     align-self: baseline;
+     font-size: 0.8rem;
 }
